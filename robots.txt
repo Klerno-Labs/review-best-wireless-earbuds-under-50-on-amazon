@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-best-wireless-earbuds-under-50-on-amazon/sitemap.xml
